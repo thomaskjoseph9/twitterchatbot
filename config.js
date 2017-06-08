@@ -6,8 +6,8 @@
  * access_token_secret
  */
 module.exports = {  
-  consumer_key: 'IS1WVkhqv1AGkeVNv37EpaPgo',  
-  consumer_secret: 'KO3gFSGayHseN08UNoSGOWrN6agLRueIR9G3g59PTtY0lfmA4d',
-  access_token: '872118160773795840-itNMJgZam7okDMkaygKDlDyxUu5ONZY',  
-  access_token_secret: 'Gyy39N7GGVO5WavrAUcqrrGNZigdKk8e5n9yVqOOXCnnP'
+  consumer_key: 'enter it',  
+  consumer_secret: 'enter it',
+  access_token: 'enter it',  
+  access_token_secret: 'enter it'
 }
